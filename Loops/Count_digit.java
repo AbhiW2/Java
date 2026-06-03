@@ -1,6 +1,7 @@
+package Loops;
 import java.util.Scanner;
 
-public class CountDigits {
+public class Count_digit {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

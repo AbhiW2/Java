@@ -1,6 +1,7 @@
+package Loops;
 import java.util.Scanner;
 
-public class AveragePositiveNumbers {
+public class Calculate_average {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

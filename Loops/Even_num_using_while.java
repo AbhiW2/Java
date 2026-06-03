@@ -1,8 +1,8 @@
 package Loops;
 
-public import java.util.Scanner;
+import java.util.Scanner;
 
-public class EvenNumbers {
+public class Even_num_using_while {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

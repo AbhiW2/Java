@@ -1,6 +1,8 @@
+package Loops;
 import java.util.Scanner;
 
-public class MultiplicationTable {
+
+public class Print_table {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
